@@ -1,11 +1,5 @@
 #Golden Brown
 
-**Private, evidence-backed legal-document triage — ZeroDay OSS Hacktoberfest 2026, Problem Statement 2**
-
-> **Status: early development — Phase 1 in progress.**  
-> No application is shipped yet. No tests have run. No privacy, accuracy or benchmark claim is verified.  
-> Do not rely on this repository for any legal purpose.
-
 ## What this project will do (planned)
 
 Help a non-lawyer understand what an English rental / leave-and-licence agreement says:
